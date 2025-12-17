@@ -1,0 +1,8 @@
+{
+  "name": "NZ FleetCommand",
+  "description": "Enterprise-grade logistics and fleet management system tailored for New Zealand transport regulations. Features real-time tracking, RUC compliance, freight management, and driver safety analytics.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
